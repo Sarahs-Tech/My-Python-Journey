@@ -47,7 +47,7 @@ while answer!="no" and answer!="n":
         print("Choose yes or no")
     answer=input("Do you want to run a calculation?").lower()
 
-print("Thank you for using this calculation!")
+print("Done, thanks!")
 
 
 
